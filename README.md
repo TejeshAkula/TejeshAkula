@@ -19,4 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=TejeshAkula&show_icons=true&theme=radical" alt="tejeshakula" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejeshakula&" alt="tejeshakula" /></p>
